@@ -3,16 +3,16 @@
 
 ---
 
-## 🚨 Situation Actuelle  
+##  Situation Actuelle  
 ### 🔸 Goma  
-- ✅ **Accès Internet**: Restauré à 60% (opérateurs : Orange, Airtel).  
-- ✅ **Réseau électrique**: Intermittent (4h/jour en moyenne).  
+-  **Accès Internet**: Restauré à 60% (opérateurs : Orange, Airtel).  
+-  **Réseau électrique**: Intermittent (4h/jour en moyenne).  
 -  **Banques**: Toujours fermées depuis janvier 2025.  
 -  **Mouvements de population**: Afflux de déplacés vers les zones sécurisées.  
 
 ### 🔸 Bukavu  
-- ✅ **Accès Internet**: Stable (70% de couverture).  
-- ✅ **Réseau électrique**: 6h/jour en moyenne.  
+-  **Accès Internet**: Stable (70% de couverture).  
+-  **Réseau électrique**: 6h/jour en moyenne.  
 -  **Banques**: Fermées, mais des transactions informelles persistent.  
 
 ---
@@ -40,7 +40,7 @@
 
 ---
 
-## 📢 Témoignages Récents  
+##  Témoignages Récents  
 > *"Grâce à Bitcoin, j’ai pu envoyer de l’argent à ma famille à Goma sans passer par une banque. Le réseau Lightning a fonctionné en 2 secondes !"* – **Marie, infirmière à l'hôpital général de Goma**.  
 
 > *"Je suis agent de change Bitcoin/cash. Je aide mes voisins à acheter de la nourriture malgré la fermeture des banques."* – **Paul, agent à Bukavu**.  
