@@ -1,4 +1,4 @@
-**Bitcoin Emergency Response for Eastern DRC (Goma & Bukavu)** 🇨🇩⚡
+# Bitcoin Emergency Response for Eastern DRC (Goma & Bukavu)🇨🇩
 
 
 > Un projet open source pour apporter une liberté financière via Bitcoin aux populations de Goma et Bukavu (RDC) privées d'accès bancaire depuis janvier 2025..
