@@ -34,7 +34,7 @@ Nous avons besoin de :
 - Développeurs pour outils Lightning
 - Agents de terrain à Goma
 
-## 📞 Contact
+##  Contact
 - Site : [AfricaWeb3Hub](comimg soon)
 - Email : africaweb3formation@gmail.com
 - · Telegram : https://t.me/africaweb3hub
