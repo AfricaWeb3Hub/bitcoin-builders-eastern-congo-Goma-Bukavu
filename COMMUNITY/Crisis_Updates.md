@@ -1,4 +1,4 @@
-# 📢 Updates de la Crise - Est de la RDC (Goma & Bukavu)  
+#  Updates de la Crise - Est de la RDC (Goma & Bukavu)  
 *Dernière mise à jour : [10 September2025]*  
 
 ---
@@ -7,24 +7,24 @@
 ### 🔸 Goma  
 - ✅ **Accès Internet**: Restauré à 60% (opérateurs : Orange, Airtel).  
 - ✅ **Réseau électrique**: Intermittent (4h/jour en moyenne).  
-- ❌ **Banques**: Toujours fermées depuis janvier 2025.  
-- ⚠️ **Mouvements de population**: Afflux de déplacés vers les zones sécurisées.  
+-  **Banques**: Toujours fermées depuis janvier 2025.  
+-  **Mouvements de population**: Afflux de déplacés vers les zones sécurisées.  
 
 ### 🔸 Bukavu  
 - ✅ **Accès Internet**: Stable (70% de couverture).  
 - ✅ **Réseau électrique**: 6h/jour en moyenne.  
-- ❌ **Banques**: Fermées, mais des transactions informelles persistent.  
+-  **Banques**: Fermées, mais des transactions informelles persistent.  
 
 ---
 
-## 📈 Adoption Bitcoin (Chiffres Clés)  
+##  Adoption Bitcoin (Chiffres Clés)  
 - **+500 personnes** formées à l’usage de Bitcoin Lightning.  
 - **+20 agents** opérationnels pour échanger BTC ⇄ Cash.  
 - **+1 000 transactions** Lightning effectuées en avril 2025.  
 
 ---
 
-## 🛠️ Actions Récentes d’AfricaWeb3Hub  
+##  Actions Récentes d’AfricaWeb3Hub  
 1. **Atelier d’urgence à Goma** (15 avril 2025) :  
    - 50 participants (enseignants, médecins, journalistes).  
    - Formation à Phoenix Wallet et échange cash/BTC.  
@@ -47,21 +47,21 @@
 
 ---
 
-## ⚠️ Défis Rencontrés  
+##  Défis Rencontrés  
 - **Coupures internet fréquentes** → difficultés pour synchroniser les wallets.  
 - **Méfiance initiale** envers les nouvelles technologies.  
 - **Besoin de plus d’agents** dans les zones rurales.  
 
 ---
 
-## 🎯 Prochaines Étapes  
+##  Prochaines Étapes  
 - Former **50 nouveaux agents** d’ici octobre 2025.  
 - Lancer un **podcast quotidien** sur WhatsApp pour updates crise + Bitcoin.  
 - Équiper 10 centres locaux de **panneaux solaires** pour recharger les devices.  
 
 ---
 
-## 📌 Comment Aider ?  
+##  Comment Aider ?  
 1. **Devenez agent** : Contactez-nous via [Telegram](https://t.me/africaweb3hub).  
 2. **Donnez des ressources** : Carte SIM, power banks, vieux smartphones.  
 3. **Partagez ce projet** : Sur les réseaux avec #BitcoinCongo.  
