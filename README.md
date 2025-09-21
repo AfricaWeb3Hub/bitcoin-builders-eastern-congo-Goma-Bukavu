@@ -11,6 +11,13 @@ En janvier 2025, Goma et bukavu et d'autres villages ont été prise par des gro
 - Établir un réseau d'échange Bitcoin ⇄ Cash avec des agents de terrain.
 - Documenter l'impact de Bitcoin dans une zone de crise.
 
+## Mission du projet ,
+
+Doter les jeunes Congolais de compétences pratiques en Bitcoin, Lightning et Web3 afin qu'ils puissent :
+- Recevoir/envoyer des fonds là où les banques sont fermées
+- Soutenir le commerce local et l'aide grâce aux micropaiements rapides
+- Développer des outils et services locaux s'appuyant sur une monnaie résistante à la censure
+
 ## 📚 Guides
 - [Guide Bitcoin en français
  https://github.com/AfricaWeb3Hub/bitcoin-builders-eastern-congo-Goma-Bukavu1/blob/main/%C3%89ducation/FR%20bitcoin_Guide.md
@@ -32,6 +39,11 @@ Nous avons besoin de :
 - Traducteurs (français, swahili, lingala)
 - Développeurs pour outils Lightning
 - Agents de terrain à Goma
+
+##  Objectifs d'impact
+- Former **≥ 1 000** personnes en 12 mois
+- Intégrer **10 000+** portefeuilles dans la région (objectif à long terme)
+- Lancer **3 flux Lightning pilotes** (commerçants / distribution d'aide) la première année
 
 ##  Contact
 - Site : [AfricaWeb3Hub](comimg soon)
