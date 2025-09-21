@@ -24,7 +24,7 @@ Doter les jeunes Congolais de compétences pratiques en Bitcoin, Lightning et We
 - [Guide Bitcoin en swahili](/EDUCATION/SW_Bitcoin_Guide.md)
 - (https://github.com/AfricaWeb3Hub/bitcoin-builders-eastern-congo-Goma-Bukavu/blob/main/EDUCATION/SW_Bitcoin_Guide.md)
 - [Tutoriel vidéo Lightning](/EDUCATION/Lightning_Demo.mp4)
-- Dernières formations (Google Drive) – Slides, supports et enregistrements.
+- Dernières formations (Google Drive) – Slides,(https://docs.google.com/presentation/d/1dHjqBgimg4Xv0-h7Svc6DpR4X4GfvaqX9xfLzvZbAHo/edit?usp=drivesdk).
 
 ##  Réseau d'Agents
 - [Comment devenir agent](/AGENT_NETWORK/Agent_Onboarding.md)
