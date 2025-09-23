@@ -68,4 +68,4 @@
 
 ---
 
-*Ce fichier est mis à jour quotidiennement. Suivez-nous sur [X (@Kingofcongo11)](https://twitter.com/prince_kayenga) pour des alerts en temps réel.*  
+*Ce fichier est mis à jour quotidiennement. Suivez-nous sur [X (@africaweb3hub)](https://twitter.com/prince_kayenga) pour des alerts en temps réel.*  
